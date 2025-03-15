@@ -56,7 +56,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DXpz/DXpz/output/snake.svg" alt="Snake animation" />
-
-###
