@@ -61,7 +61,7 @@
 ###
 
 
-<div>
+<div  style="border: 2px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
 <pre>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@                                                                                                                         @@
